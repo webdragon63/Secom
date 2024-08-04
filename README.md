@@ -7,5 +7,4 @@ git clone https://github.com/webdragon63/secom.git
 cd secom
 ```
 # Executions
-Just type on your terminal
-`bash secom.sh` and the tool will run.
+Just type `bash secom.sh` on your terminal to execute the tool
