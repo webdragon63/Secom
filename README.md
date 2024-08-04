@@ -4,7 +4,7 @@ This is a simple secure terminal chatting medium for hackers using netcat or cry
 
 # Dependencies
 ### netcat and cryptcat
-Install netcat and cryptcat using
+Install netcat and cryptcat using these commands
 ```shell
 sudo apt install -y netcat
 ```
@@ -15,8 +15,8 @@ sudo apt install -y cryptcat
 
 # Installation
 ```shell
-sudo git clone https://github.com/webdragon63/secom.git
-cd secom
+sudo git clone https://github.com/webdragon63/Secom.git
+cd Secom
 ```
 # Executions
 Just type `bash secom.sh` on your terminal to execute the tool
