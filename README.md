@@ -6,10 +6,10 @@ This is a simple secure terminal chatting medium for hackers using netcat or cry
 ### netcat and cryptcat
 Install netcat and cryptcat using
 ```shell
-sudo apt install netcat
+sudo apt install -y netcat
 ```
 ```shell
-sudo apt install cryptcat
+sudo apt install -y cryptcat
 ```
 
 
