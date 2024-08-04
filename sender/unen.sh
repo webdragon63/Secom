@@ -17,5 +17,6 @@ EOF
 
 read -p "Set IP Address >>" i
 read -p "Set port >>" p
+echo ________________________________________________________________________________
+
 netcat $i $p
-done
