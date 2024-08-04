@@ -6,16 +6,16 @@ This is a simple secure terminal chatting medium for hackers using netcat or cry
 ### netcat and cryptcat
 Install netcat and cryptcat using
 ```shell
-apt install netcat
+sudo apt install netcat
 ```
 ```shell
-apt install cryptcat
+sudo apt install cryptcat
 ```
 
 
 # Installation
 ```shell
-git clone https://github.com/webdragon63/secom.git
+sudo git clone https://github.com/webdragon63/secom.git
 cd secom
 ```
 # Executions
