@@ -19,5 +19,6 @@ EOF
 
 read -p "Set port >>" p
 read -p "Set password >>" s
+echo ________________________________________________________________________________
 
 cryptcat -l -p $p -k $s
