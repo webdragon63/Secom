@@ -1,6 +1,12 @@
 # About Secom
 ![Cyber-Security-Hacker](https://github.com/user-attachments/assets/ee4be673-1a8f-4a97-8abb-c07c6ffa95b1)
-
+# Dependencies
+### netcat and cryptcat
+Install netcat and cryptcat using
+```shell
+apt install netcat
+apt install cryptcat
+```
 This is a simple secure terminal chatting medium for hackers using netcat or cryptcat.
 
 # Installation
