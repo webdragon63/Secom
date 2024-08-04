@@ -20,5 +20,6 @@ EOF
 read -p "Set IP Address >>" i
 read -p "Set port >>" p
 read -p "Set password >>" s
+echo ________________________________________________________________________________
 
 cryptcat $i $p -k $s
