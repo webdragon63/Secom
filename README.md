@@ -7,6 +7,8 @@ This is a simple secure terminal chatting medium for hackers using netcat or cry
 Install netcat and cryptcat using
 ```shell
 apt install netcat
+```
+```shell
 apt install cryptcat
 ```
 
