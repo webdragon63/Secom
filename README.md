@@ -1,4 +1,6 @@
 # About Secom
+![Cyber-Security-Hacker](https://github.com/user-attachments/assets/ee4be673-1a8f-4a97-8abb-c07c6ffa95b1)
+
 This is a simple secure terminal chatting medium for hackers using netcat or cryptcat.
 
 # Installation
