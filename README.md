@@ -20,3 +20,7 @@ cd Secom
 ```
 # Executions
 Just type `bash secom.sh` on your terminal to execute the tool
+# Created by
+INDIAN CYBER ARMY
+
+YT CHANNEL: https://www.youtube.com/@indiancyberarmy5
