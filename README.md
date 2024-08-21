@@ -23,4 +23,7 @@ Just type `bash secom.sh` on your terminal to execute the tool
 # Created by
 INDIAN CYBER ARMY
 
+# Full Tutorial
+https://youtu.be/tbJuHyipBcc?si=Om4NaF5NFSNrkgip
+
 YT CHANNEL: https://www.youtube.com/@indiancyberarmy5
